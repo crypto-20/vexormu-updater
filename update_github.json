@@ -1,5 +1,5 @@
 {
   "versionCode": 829,
   "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "- Fixed world_game_assets.zip extraction (ISO-8859-1 ZIP header decoder)\n- Fixed Launcher News & Information 2-column layout\n- Lightweight Launcher Edition (Fast Install)"
+  "changeLog": "- Production Audited Lightweight APK (35.68 MB)\n- Fixed world_game_assets.zip extraction & sentinel check\n- Fixed Red & Gold Launcher 2-column News/Info layout\n- Full Cloudflare domain routing"
 }

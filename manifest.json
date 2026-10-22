@@ -1,0 +1,38 @@
+{
+  "schema": "vexormu-ota-manifest/v2",
+  "resourceVersion": 828000,
+  "tag": "v828-assets",
+  "bundles": [
+    {
+      "id": "core_game_assets",
+      "name": "core_game_assets.zip",
+      "size": 365756778,
+      "uncompressedSize": 616499859,
+      "fileCount": 7157,
+      "sha256": "ad4dc9e6f68ea1181c9c20eb32890b65df87363925f871e4bc7299ade59ab1e3",
+      "sentinelFile": "player/player.bmd",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/core_game_assets.zip"
+    },
+    {
+      "id": "world_game_assets",
+      "name": "world_game_assets.zip",
+      "size": 402499162,
+      "uncompressedSize": 636593481,
+      "fileCount": 10120,
+      "sha256": "fe23c7f718befe039766787c082fb0336f7f3efa8c7bf0b21b829a57f2742061",
+      "sentinelFile": "world1/enc1.att",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/world_game_assets.zip"
+    },
+    {
+      "id": "media_game_assets",
+      "name": "media_game_assets.zip",
+      "size": 365038555,
+      "uncompressedSize": 484787914,
+      "fileCount": 2241,
+      "sha256": "fe956d909fd9c187791ded8975bcff109196e60786601f9082a83078c2020e2b",
+      "sentinelFile": "music/mutheme.mp3",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/media_game_assets.zip"
+    }
+  ],
+  "files": []
+}

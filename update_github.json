@@ -1,5 +1,7 @@
 {
   "versionCode": 829,
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "- Production Audited Lightweight APK (35.68 MB)\n- Fixed world_game_assets.zip extraction & sentinel check\n- Fixed Red & Gold Launcher 2-column News/Info layout\n- Full Cloudflare domain routing"
+  "versionName": "V823.6",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.6-build829/VEXORMU_V823.6_Build829.apk",
+  "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
+  "changeLog": "VEXORMU V823.6 (Build 829): Exact Red & Gold Edition Launcher UI, 6s Logo Shimmer, Official Social Links, Smart Auto-Repair Cache Engine, and Melee/Ranged Skill Aim & Range Auto-Approach Fix."
 }

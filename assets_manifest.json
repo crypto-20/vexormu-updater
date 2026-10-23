@@ -1,6 +1,6 @@
 {
   "schema": "vexormu-ota-manifest/v2",
-  "resourceVersion": 828000,
+  "resourceVersion": 829000,
   "tag": "v828-assets",
   "bundles": [
     {
@@ -34,5 +34,69 @@
       "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/media_game_assets.zip"
     }
   ],
-  "files": []
+  "files": [
+    {
+      "path": "player/player.bmd",
+      "size": 3324834,
+      "version": 829000,
+      "sha256": "2964e7c41dcf686b79e53a74261192ebfc6879d36bc030c2e503ef0b8cef38ef",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_player.bmd"
+    },
+    {
+      "path": "custom/arial.ttf",
+      "size": 1036584,
+      "version": 829000,
+      "sha256": "c9b76220a5be42ead4733611e417cd65c5fd8aeaa33eb56576ac378a37d130a1",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_arial.ttf"
+    },
+    {
+      "path": "monster/monster.bmd",
+      "size": 171687,
+      "version": 829000,
+      "sha256": "1a2aa457ef27c151deb45dc9e3ede5211d6da159dbabddfe7f9973785844504d",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_monster.bmd"
+    },
+    {
+      "path": "skill/skill.bmd",
+      "size": 2432,
+      "version": 829000,
+      "sha256": "d789458bf6665f80bc35bab7c5ff05d1a5633ca803a7926ec9bba0df8970a65a",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_skill.bmd"
+    },
+    {
+      "path": "spk/config_eng/skill.bmd",
+      "size": 57204,
+      "version": 829000,
+      "sha256": "e84ed0d816e9998f8fa8494387625ef2be392024afee45ec80d0d080a6a7e16b",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_spk_skill.bmd"
+    },
+    {
+      "path": "dec2.dat",
+      "size": 54,
+      "version": 829000,
+      "sha256": "d19e950c44e5648113269cb35d74c25f1c7ca27399e62da95fa127d4d714325e",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_dec2.dat"
+    },
+    {
+      "path": "enc1.dat",
+      "size": 54,
+      "version": 829000,
+      "sha256": "ee73a59bf278d42735e537c96c25cc1ad0f69f1de089a7b20a1e6d2910a4372d",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_enc1.dat"
+    },
+    {
+      "path": "world1/encterrain1.att",
+      "size": 65540,
+      "version": 829000,
+      "sha256": "4365b3b918fb9a47e50a68122a7804f15bca8240c71df1196927499837c295cb",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_encterrain1.att"
+    },
+    {
+      "path": "music/mutheme.mp3",
+      "size": 5028177,
+      "version": 829000,
+      "sha256": "e03c12fb2ce48d6e8acac8d327364881d853669c78412619d55241c69df69161",
+      "url": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/repair_mutheme.mp3"
+    }
+  ]
 }

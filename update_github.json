@@ -1,7 +1,7 @@
 {
-  "versionCode": 829,
-  "versionName": "V823.6",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.6-build829/VEXORMU_V823.6_Build829.apk",
+  "versionCode": 831,
+  "versionName": "V823.8",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.8-build831/VEXORMU_V823.8_Build831.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V823.6 (Build 829): Exact Red & Gold Edition Launcher UI, 6s Logo Shimmer, Official Social Links, Smart Auto-Repair Cache Engine, and Melee/Ranged Skill Aim & Range Auto-Approach Fix."
+  "changeLog": "VEXORMU V823.8 (Build 831): Dragon & Gothic Fortress 1536x864 Launcher UI, 6s Central Crest Shimmer, Verified Patch Notes, Official Social Links, Smart Auto-Repair Cache Engine, Attack Mode Button Always Visible Over Chatbox, and Skill Aim & Range Auto-Approach Fix."
 }

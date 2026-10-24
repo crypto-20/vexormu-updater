@@ -3,5 +3,5 @@
   "versionName": "V823.8",
   "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.8-build831/VEXORMU_V823.8_Build831.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V823.8 (Build 831): Dragon & Gothic Fortress 1536x864 Launcher UI, 6s Central Crest Shimmer, Verified Patch Notes, Official Social Links, Smart Auto-Repair Cache Engine, Attack Mode Button Always Visible Over Chatbox, and Skill Aim & Range Auto-Approach Fix."
+  "changeLog": "VEXORMU V823.8 (Build 831): PC Combat Parity Update — Divine Sword Base Damage & Attack Speed Matched to Bone Blade (Normal & Excellent), Melee & Long-Range Skill Range/Approach Parity, Auto-Aim Distance Control & Server Sync Fix, Dragon & Gothic Fortress Launcher UI."
 }

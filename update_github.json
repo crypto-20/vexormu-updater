@@ -1,7 +1,7 @@
 {
-  "versionCode": 832,
-  "versionName": "V823.8",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.8-build831/VEXORMU_V823.8_Build831.apk",
+  "versionCode": 833,
+  "versionName": "V823.9",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.9-build833/VEXORMU_V823.9_Build833.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V823.8 (Build 831): PC Combat Parity Update — Divine Sword Base Damage & Attack Speed Matched to Bone Blade (Normal & Excellent), Melee & Long-Range Skill Range/Approach Parity, Auto-Aim Distance Control & Server Sync Fix, Dragon & Gothic Fortress Launcher UI."
+  "changeLog": "VEXORMU V823.9 (Build 833): PC Source 1:1 Skill Casting & Animation Parity (No Skill Spam / No Continuous Auto-Cast Latch), Divine Sword & Bone Blade Parity, Auto-Aim Distance Control & Server Sync Fix."
 }

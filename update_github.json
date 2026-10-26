@@ -1,7 +1,7 @@
 {
-  "versionCode": 834,
-  "versionName": "V824.0",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.0-build834/VEXORMU_V824.0_Build834.apk",
+  "versionCode": 835,
+  "versionName": "V824.1",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.1-build835/VEXORMU_V824.1_Build835.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V824.0 (Build 834): Always-Visible Mobile Joystick with Exact 360° Camera-Relative Movement, Smooth Wall-Sliding & Zero Backward Micro-Step Turning, plus PC Source 1:1 Skill Casting Parity."
+  "changeLog": "VEXORMU V824.1 (Build 835): PC 1:1 Skill Targeting Parity (Free-Cast AOE Evil Spirit/Twisting Slash vs. Single-Target Auto-Retarget & Validation), MU Helper Priority Loot Pickup Before Combat, Jewel of Extension Repair for 1st/2nd Lucky Tier Armor, and NPC Rich (David) Lucky Item Ticket Crafting."
 }

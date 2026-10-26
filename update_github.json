@@ -1,7 +1,7 @@
 {
-  "versionCode": 833,
-  "versionName": "V823.9",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v823.9-build833/VEXORMU_V823.9_Build833.apk",
+  "versionCode": 834,
+  "versionName": "V824.0",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.0-build834/VEXORMU_V824.0_Build834.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V823.9 (Build 833): PC Source 1:1 Skill Casting & Animation Parity (No Skill Spam / No Continuous Auto-Cast Latch), Divine Sword & Bone Blade Parity, Auto-Aim Distance Control & Server Sync Fix."
+  "changeLog": "VEXORMU V824.0 (Build 834): Always-Visible Mobile Joystick with Exact 360° Camera-Relative Movement, Smooth Wall-Sliding & Zero Backward Micro-Step Turning, plus PC Source 1:1 Skill Casting Parity."
 }

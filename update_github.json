@@ -1,7 +1,7 @@
 {
-  "versionCode": 835,
-  "versionName": "V824.1",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.1-build835/VEXORMU_V824.1_Build835.apk",
+  "versionCode": 836,
+  "versionName": "V824.2",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.2-build836/VEXORMU_V824.2_Build836.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V824.1 (Build 835): PC 1:1 Skill Targeting Parity (Free-Cast AOE Evil Spirit/Twisting Slash vs. Single-Target Auto-Retarget & Validation), MU Helper Priority Loot Pickup Before Combat, Jewel of Extension Repair for 1st/2nd Lucky Tier Armor, and NPC Rich (David) Lucky Item Ticket Crafting."
+  "changeLog": "VEXORMU V824.2 (Build 836): ServerVersion 1.03.51 Protocol Sync (SuperKhung123 / K-838858123 / Key-838858123), Divine Sword 1:1 Bone Blade Damage & Attack Speed Parity, and Melee/Long-Range Auto-Aim Distance Control."
 }

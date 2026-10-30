@@ -1,7 +1,7 @@
 {
-  "versionCode": 841,
-  "versionName": "V824.4",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.4-build841/VEXORMU_V824.4_Build841.apk",
+  "versionCode": 842,
+  "versionName": "V824.5",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.5-build842/VEXORMU_V824.5_Build842.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V824.4 (Build 841): PC-Referenced Rageful Blow & Crystal of Destruction AGI/SPD Scaling, 1:1 BK 3-Hit Combo Mastery, and Mobile Combat Sync."
+  "changeLog": "VEXORMU V824.5 (Build 842): Synchronized PVP / Spot / VIP Server MU Helper & Offline Train Support, PC-Referenced BK Skill Speed, and 1:1 3-Hit Combo Mastery."
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 836,
-  "versionName": "V824.2",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.2-build836/VEXORMU_V824.2_Build836.apk",
+  "versionCode": 841,
+  "versionName": "V824.4",
+  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.4-build841/VEXORMU_V824.4_Build841.apk",
   "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v828-assets/VexorMU.apk",
-  "changeLog": "VEXORMU V824.2 (Build 836): ServerVersion 1.03.51 Protocol Sync (SuperKhung123 / K-838858123 / Key-838858123), Divine Sword 1:1 Bone Blade Damage & Attack Speed Parity, and Melee/Long-Range Auto-Aim Distance Control."
+  "changeLog": "VEXORMU V824.4 (Build 841): PC-Referenced Rageful Blow & Crystal of Destruction AGI/SPD Scaling, 1:1 BK 3-Hit Combo Mastery, and Mobile Combat Sync."
 }

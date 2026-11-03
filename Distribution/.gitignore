@@ -1,0 +1,5 @@
+# Keep local build tools and source private; publish only the PC channel and guide.
+*
+!.gitignore
+!pc-channel.json
+!README.md

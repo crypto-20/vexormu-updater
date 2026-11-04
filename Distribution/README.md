@@ -1,6 +1,6 @@
 # VEXORMU PC
 
-[Download the PC installer](https://github.com/crypto-20/vexormu-updater/releases/download/pc-v1.0.0-20261103/VEXORMU-Installer.exe).
+[Download the PC installer](https://github.com/crypto-20/vexormu-updater/releases/download/pc-v1.0.1-20261104/VEXORMU-Installer.exe).
 
 Download **VEXORMU-Installer.exe** only. Choose an install folder and click **Install**. The installer downloads and verifies the complete PC client from GitHub Releases. Interrupted downloads resume when you retry.
 

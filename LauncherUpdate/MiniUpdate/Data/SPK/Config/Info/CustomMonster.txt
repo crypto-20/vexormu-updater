@@ -1,0 +1,54 @@
+1
+//ID	Type	Name	Path	Folder	FileName	Scale
+700	1	"Small Spirit Stone"	"Data\\Custom\\Monster\\IceMonster\\"	"Custom\\Monster\\IceMonster\\"	"MonsterMine_2"	1.00
+701	1	"Large Spirit Stone"	"Data\\Custom\\Monster\\IceMonster\\"	"Custom\\Monster\\IceMonster\\"	"MonsterMine_1"	1.00
+702	1	"Soul Stone"	"Data\\Custom\\Monster\\IceMonster\\"	"Custom\\Monster\\IceMonster\\"	"MonsterMine_Boss"	1.00
+703	1	"Demon King"	"Data\\Custom\\Monster\\Gold\\HellMain\\"	"Custom\\Monster\\Gold\\HellMain\\"	"monster106"	1.80
+704	1	"Golden Erohim"	"Data\\Custom\\Monster\\Gold\\Herohim\\"	"Custom\\Monster\\Gold\\Herohim\\"	"Monster88"	2.00
+705	1	"Golden Kundun"	"Data\\Custom\\Monster\\Gold\\Kundun\\"	"Custom\\Monster\\Gold\\Kundun\\"	"Monster65"	2.00
+706	1	"Golden Medusa"	"Data\\Custom\\Monster\\Gold\\Medusa\\"	"Custom\\Monster\\Gold\\Medusa\\"	"Monster193"	1.60
+707	1	"Golden Selupan"	"Data\\Custom\\Monster\\Gold\\Selupan\\"	"Custom\\Monster\\Gold\\Selupan\\"	"Monster151"	2.00
+708	1	"Demon Lord"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Monster373"	2.00
+709	1	"Ghost Dragon King"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Monster374"	1.00
+710	1	"Blood Ghost King"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Monster375"	2.00
+711	1	"Pharaoh"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"monsterbbe1"	2.00
+712	1	"Anubis"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"monster617"	1.30
+713	1	"Water Emperor"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"monster616"	2.00
+717	1	"Ox King"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"MonterL_400"	1.40
+718	1	"Monkey King"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Monster911"	1.60
+719	1	"Hell Beast"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"boss-chaos3"	2.00
+720	1	"Flame Overlord"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"LordOfDarkness"	2.00
+721	1	"Evil God General"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Boss100"	1.70
+722	1	"Demon God General"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"USK_DestroyerBoss_Mob"	1.70
+723	1	"War God"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"Monster9281"	1.30
+724	1	"Mystic Armored Crab"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"USK_Green_Crab_Mob"	1.00
+725	1	"Mystic Armored Crab"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"USK_Green_Crab_Mob"	1.00
+726	1	"Demon Treasure Chest"	"Data\\Custom\\Monster\\BOSS\\"	"Custom\\Monster\\BOSS\\"	"tesouro"	1.00
+727	1	"Boss Pillar"	"Data\\Custom\\Monster\\MonsterTru\\"	"Custom\\Monster\\MonsterTru\\"	"monster186"	1.00
+728	0	"SPK NPC"	"Data\\Custom\\Monster\\NPC\\"	"Custom\\Monster\\NPC\\"	"NPC_437"	1.00
+729	0	"Gods & Demons War"	"Data\\Custom\\Monster\\ModelNpc\\SPK_Girl\\"	"Custom\\Monster\\ModelNpc\\SPK_Girl\\"	"SPK_NPC_GIRL_01"	0.85
+730	0	"Guild Boss"	"Data\\Custom\\Monster\\ModelNpc\\SPK_BossGuild\\"	"Custom\\Monster\\ModelNpc\\SPK_BossGuild\\"	"BossGuild"	1.00
+731	0	"Mini Castle Siege"	"Data\\Custom\\Monster\\ModelNpc\\SPK_CTCMini\\"	"Custom\\Monster\\ModelNpc\\SPK_CTCMini\\"	"CTCMini"	1.00
+732	0	"Pro Resonance"	"Data\\Custom\\Monster\\ModelNpc\\SPK_CongHuong\\"	"Custom\\Monster\\ModelNpc\\SPK_CongHuong\\"	"NPC_425"	1.00
+733	0	"Item Exchange"	"Data\\Custom\\Monster\\ModelNpc\\SPK_DoiItem\\"	"Custom\\Monster\\ModelNpc\\SPK_DoiItem\\"	"NPC_426"	1.00
+734	0	"Harmony Socketing"	"Data\\Custom\\Monster\\ModelNpc\\SPK_KhamDa\\"	"Custom\\Monster\\ModelNpc\\SPK_KhamDa\\"	"NPC_423"	1.00
+735	0	"Quest Master"	"Data\\Custom\\Monster\\ModelNpc\\SPK_NhiemVu\\"	"Custom\\Monster\\ModelNpc\\SPK_NhiemVu\\"	"NPC_419"	1.00
+736	0	"Item Smelting"	"Data\\Custom\\Monster\\ModelNpc\\SPK_DungLuyen\\"	"Custom\\Monster\\ModelNpc\\SPK_DungLuyen\\"	"NPC_031"	1.00
+737	0	"Battle Arena"	"Data\\Custom\\Monster\\ModelNpc\\SPK_LoanChien\\"	"Custom\\Monster\\ModelNpc\\SPK_LoanChien\\"	"NpcC@ll004"	0.85
+738	0	"Excellent Item Buyer"	"Data\\Custom\\Monster\\ModelNpc\\SPK_Eunice\\"	"Custom\\Monster\\ModelNpc\\SPK_Eunice\\"	"N_eunice"	1.00
+739	0	"Item Upgrade"	"Data\\Custom\\Monster\\ModelNpc\\SPK_NPC_421\\"	"Custom\\Monster\\ModelNpc\\SPK_NPC_421\\"	"NPC_421"	1.00
+740	0	"Item Mix Trade"	"Data\\Custom\\Monster\\ModelNpc\\SPK_NPC_420\\"	"Custom\\Monster\\ModelNpc\\SPK_NPC_420\\"	"NPC_420"	1.00
+741	0	"Jewel Mix Trade"	"Data\\Custom\\Monster\\ModelNpc\\SPK_NPC_032\\"	"Custom\\Monster\\ModelNpc\\SPK_NPC_032\\"	"NPC_032"	1.00
+742	0	"Heavenly Maiden"	"Data\\Custom\\Monster\\ModelNpc\\SPK_Alpine\\"	"Custom\\Monster\\ModelNpc\\SPK_Alpine\\"	"NPC"	1.50
+end
+
+2
+//ID	Name	SetID	L-Wep	R-Wep	Wing	SKill	Size
+750	"Demonic Skyblade"	29	22	22	36	42	1.35
+751	"Demonic Archangel"	30	2572	3087	37	3	1.35
+752	"Demonic Saintess"	31	2063	2070	38	235	1.35
+753	"Demonic Warlord"	32	23	-1	39	56	1.35
+754	"Demonic Overlord"	33	1039	-1	40	61	1.35
+755	"Dark Wizard"	43	2579	2583	43	-1	1.35
+756	"Demonic Fist King"	73	35	35	50	-1	1.35
+end

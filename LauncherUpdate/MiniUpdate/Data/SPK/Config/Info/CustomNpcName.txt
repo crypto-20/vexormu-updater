@@ -1,0 +1,5 @@
+0
+//Index	NPCID	Map	X	Y	Name
+0       546     0       139     140      "Công Thành Chiến II"
+1       257     0       135     127      "Nũ Chiến Thần"
+end

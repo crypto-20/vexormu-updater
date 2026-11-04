@@ -1,0 +1,59 @@
+//==============================================================================================================================
+// Custom Item & Wing Particle Effect System (CGMItemEffect / CustomItemWingEffect)
+//==============================================================================================================================
+// Format:
+// Index  ItemType  ItemIndex  Bone  EffectType  Texture  SubType  Scale  ColorR  ColorG  ColorB  OffX  OffY  OffZ
+//
+// EffectType:
+//  0 = EFFECT_TYPE_SPRITE      (Rotating / pulsing glowing aura sprite)
+//  1 = EFFECT_TYPE_PARTICLE    (Floating animated spark / glow particles)
+//  2 = EFFECT_TYPE_FLAME       (Dynamic fire embers and flame particle streams)
+//  3 = EFFECT_TYPE_LIGHTNING   (Electric arcs & mega lightning flashes)
+//  4 = EFFECT_TYPE_SMOKE       (Atmospheric smoke clouds)
+//  5 = EFFECT_TYPE_GROUND_AURA (Rotating rune / magic circle on character ground)
+//
+// Texture Index Reference:
+//  32002 = BITMAP_LIGHT
+//  32004 = BITMAP_FLARE
+//  32005 = BITMAP_FIRE
+//  32006 = BITMAP_SPARK
+//  32008 = BITMAP_ENERGY
+//  32014 = BITMAP_AURORA
+//  32025 = BITMAP_MAGIC
+//  32028 = BITMAP_SHINY
+//==============================================================================================================================
+
+//------------------------------------------------------------------------------------------------------------------------------
+// Custom Wings & Cloaks Glowing Bone Effects
+//------------------------------------------------------------------------------------------------------------------------------
+// Index  Type  Index  Bone  EffType  Texture  Sub  Scale  Red   Green  Blue   OffX  OffY  OffZ
+0        12    180    2     0        32002    0    1.2    1.0   0.5    0.2    0.0   0.0   0.0    // Wing Bone 2 Golden Glow
+1        12    180    3     0        32002    0    1.2    1.0   0.5    0.2    0.0   0.0   0.0    // Wing Bone 3 Golden Glow
+2        12    180    4     1        32006    0    0.8    1.0   0.8    0.3    0.0   0.0   0.0    // Wing Bone 4 Sparks
+3        12    180    5     1        32006    0    0.8    1.0   0.8    0.3    0.0   0.0   0.0    // Wing Bone 5 Sparks
+
+// Custom Flame Wings (Wings of Conqueror / Monster Wings)
+4        12    181    2     2        32005    0    1.0    1.0   0.3    0.1    0.0   0.0   0.0    // Left Flame Wing
+5        12    181    3     2        32005    0    1.0    1.0   0.3    0.1    0.0   0.0   0.0    // Right Flame Wing
+6        12    181    4     1        32006    0    0.7    1.0   0.6    0.2    0.0   0.0   0.0    // Flame Sparks
+
+// Custom Ice Angel Wings
+7        12    182    2     0        32004    0    1.1    0.2   0.7    1.0    0.0   0.0   0.0    // Cyan Flare
+8        12    182    3     0        32004    0    1.1    0.2   0.7    1.0    0.0   0.0   0.0    // Cyan Flare
+9        12    182    4     1        32006    0    0.8    0.4   0.8    1.0    0.0   0.0   0.0    // Ice Sparks
+10       12    182    5     1        32006    0    0.8    0.4   0.8    1.0    0.0   0.0   0.0    // Ice Sparks
+
+// Custom Dark Lord / Fighter Capes
+11       12    183    2     0        32028    0    0.9    0.8   0.1    0.9    0.0   0.0   0.0    // Purple Cape Glow
+12       12    183    3     1        32006    0    0.6    0.9   0.2    1.0    0.0   0.0   0.0    // Purple Sparks
+
+//------------------------------------------------------------------------------------------------------------------------------
+// Custom Swords / Weapons Glowing & Lightning Effects
+//------------------------------------------------------------------------------------------------------------------------------
+// Custom Sword Flame Tip
+13       0     50     2     2        32005    0    1.0    1.0   0.4    0.1    0.0   0.0   0.0    // Blade Fire Stream
+14       0     50     3     1        32006    0    0.6    1.0   0.8    0.3    0.0   0.0   0.0    // Tip Sparks
+
+// Custom Lightning Staff / Mace
+15       5     40     2     3        32002    0    1.0    0.4   0.7    1.0    0.0   0.0   0.0    // Electric Lightning Arc
+16       5     40     3     0        32004    0    1.3    0.3   0.8    1.0    0.0   0.0   0.0    // Head Flare

@@ -14,7 +14,7 @@
 13 "Muse Elf"
 14 "Reserved: Job"
 15 "Reserved: Job"
-16 "Grow Lancer"
+16 "Reserved: Job"
 17 "Rune Wizard"
 18 "Strength"
 19 "Agility"

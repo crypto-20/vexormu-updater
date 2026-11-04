@@ -1,0 +1,434 @@
+// ItemCode VisualRole Enabled Directory ModelName; role 9 = accessory; -1 = preview/box
+350 0 1 VexorSkins/Item Sword351 // VXM Golden Darkness Sword
+351 0 1 VexorSkins/Item Sword352 // VXM Dark Raven Sword
+352 0 1 VexorSkins/Item Sword353 // VXM Ruined Claw
+353 0 1 VexorSkins/Item Sword354 // VXM Ruined Sword 2
+354 0 1 VexorSkins/Item Sword355 // VXM Anubis Claw
+355 0 1 VexorSkins/Item Sword356 // VXM Anubis Claw Left
+356 0 1 VexorSkins/Item Sword357 // VXM Anubis Claw Right
+357 0 1 VexorSkins/Item Sword358 // VXM Anubis Sword 4
+358 0 1 VexorSkins/Item Sword359 // VXM Heat Sword
+359 0 1 VexorSkins/Item Sword360 // VXM Katashi Sword
+360 0 1 VexorSkins/Item Sword361 // VXM Kronus 2 0 Sword
+361 0 1 VexorSkins/Item Sword362 // VXM Mystik Sword
+362 0 1 VexorSkins/Item Sword363 // VXM Mystik Sword 2
+363 0 1 VexorSkins/Item Sword364 // VXM Poseidon 2 0 Sword
+364 0 1 VexorSkins/Item Sword365 // VXM Style New 2 0 Sword
+365 0 1 VexorSkins/Item Sword366 // VXM Tail Fox Sword
+366 0 1 VexorSkins/Item Sword367 // VXM Valentine Sword
+367 0 1 VexorSkins/Item Sword368 // VXM Pack Set Gold  Claw
+368 0 1 VexorSkins/Item Sword369 // VXM Halowen Claw
+369 0 1 VexorSkins/Item Sword370 // VXM Halowen Sword 2
+370 0 1 VexorSkins/Item Sword371 // VXM Snow Angel Kit Sword
+371 0 1 VexorSkins/Item Sword372 // VXM Snow Angel Kit Sword 2
+862 0 1 VexorSkins/Item Axe351 // VXM Mystik Axe
+863 0 1 VexorSkins/Item Axe352 // VXM Nordic Axe
+1374 0 1 VexorSkins/Item Mace351 // VXM Golden Darkness Mace
+1375 0 1 VexorSkins/Item Mace352 // VXM Dark Raven Mace
+1376 0 1 VexorSkins/Item Mace353 // VXM 75Kit Santa 2  Mace
+1377 0 1 VexorSkins/Item Mace354 // VXM 75Kit Santa 2  Mace 2
+1378 0 1 VexorSkins/Item Mace355 // VXM 75Kit Santa 2  Mace 3
+1379 0 1 VexorSkins/Item Mace356 // VXM All Love Rende Mace
+1380 0 1 VexorSkins/Item Mace357 // VXM Ruined Mace
+1381 0 1 VexorSkins/Item Mace358 // VXM Anubis Mace
+1382 0 1 VexorSkins/Item Mace359 // VXM Heat Mace
+1383 0 1 VexorSkins/Item Mace360 // VXM Kronus 2 0 Mace
+1384 0 1 VexorSkins/Item Mace361 // VXM Mystik Mace
+1385 0 1 VexorSkins/Item Mace362 // VXM Mystik Mace 2
+1386 0 1 VexorSkins/Item Mace363 // VXM Nordic Mace
+1387 0 1 VexorSkins/Item Mace364 // VXM Poseidon 2 0 Mace
+1388 0 1 VexorSkins/Item Mace365 // VXM Style New 2 0 Mace
+1389 0 1 VexorSkins/Item Mace366 // VXM Tail Fox Mace
+1390 0 1 VexorSkins/Item Mace367 // VXM Valentine Mace
+1391 0 1 VexorSkins/Item Mace368 // VXM Halowen Mace
+1392 0 1 VexorSkins/Item Mace369 // VXM Snow Angel Kit Mace
+1886 0 1 VexorSkins/Item Spear351 // VXM Golden Darkness Spear
+1887 0 1 VexorSkins/Item Spear352 // VXM All Love Rende Spear
+1888 0 1 VexorSkins/Item Spear353 // VXM Ruined Spear
+1889 0 1 VexorSkins/Item Spear354 // VXM Katashi Spear
+1890 0 1 VexorSkins/Item Spear355 // VXM Kronus 2 0 Spear
+1891 0 1 VexorSkins/Item Spear356 // VXM Poseidon 2 0 Spear
+1892 0 1 VexorSkins/Item Spear357 // VXM Style New 2 0 Spear
+1893 0 1 VexorSkins/Item Spear358 // VXM Snow Angel Kit Spear
+2398 0 1 VexorSkins/Item Bow351 // VXM Golden Darkness Bow
+2399 0 1 VexorSkins/Item Bow352 // VXM Dark Raven Bow
+2400 0 1 VexorSkins/Item Bow353 // VXM 75Kit Santa 2  Bow
+2401 0 1 VexorSkins/Item Bow354 // VXM Ruined Bow
+2402 0 1 VexorSkins/Item Bow355 // VXM Anubis Bow
+2403 0 1 VexorSkins/Item Bow356 // VXM Heat Bow
+2404 0 1 VexorSkins/Item Bow357 // VXM Katashi Bow
+2405 0 1 VexorSkins/Item Bow358 // VXM Kronus 2 0 Bow
+2406 0 1 VexorSkins/Item Bow359 // VXM Mystik Bow
+2407 0 1 VexorSkins/Item Bow360 // VXM Nordic Bow
+2408 0 1 VexorSkins/Item Bow361 // VXM Poseidon 2 0 Bow
+2409 0 1 VexorSkins/Item Bow362 // VXM Style New 2 0 Bow
+2410 0 1 VexorSkins/Item Bow363 // VXM Valentine Bow
+2411 0 1 VexorSkins/Item Bow364 // VXM Halowen Bow
+2412 0 1 VexorSkins/Item Bow365 // VXM Snow Angel Kit Bow
+2910 0 1 VexorSkins/Item Staff351 // VXM Golden Darkness Staff
+2911 0 1 VexorSkins/Item Staff352 // VXM Dark Raven Staff
+2912 0 1 VexorSkins/Item Staff353 // VXM 75Kit Santa 2  Staff
+2913 0 1 VexorSkins/Item Staff354 // VXM Ruined Staff
+2914 0 1 VexorSkins/Item Staff355 // VXM Anubis Staff
+2915 0 1 VexorSkins/Item Staff356 // VXM Heat Staff
+2916 0 1 VexorSkins/Item Staff357 // VXM Katashi Staff
+2917 0 1 VexorSkins/Item Staff358 // VXM Kronus 2 0 Staff
+2918 0 1 VexorSkins/Item Staff359 // VXM Kronus 2 0 Staff 2
+2919 0 1 VexorSkins/Item Staff360 // VXM Mystik Staff
+2920 0 1 VexorSkins/Item Staff361 // VXM Nordic Staff
+2921 0 1 VexorSkins/Item Staff362 // VXM Poseidon 2 0 Staff
+2922 0 1 VexorSkins/Item Staff363 // VXM Style New 2 0 Staff
+2923 0 1 VexorSkins/Item Staff364 // VXM Tail Fox Staff
+2924 0 1 VexorSkins/Item Staff365 // VXM Valentine Staff
+2925 0 1 VexorSkins/Item Staff366 // VXM Halowen Staff
+2926 0 1 VexorSkins/Item Staff367 // VXM Snow Angel Kit Staff
+3422 1 1 VexorSkins/Item Shield351 // VXM Golden Darkness Shield
+3423 1 1 VexorSkins/Item Shield352 // VXM Dark Raven Shield
+3424 1 1 VexorSkins/Item Shield353 // VXM 75Kit Santa 2  Shield
+3425 1 1 VexorSkins/Item Shield354 // VXM All Love Rende Shield
+3426 1 1 VexorSkins/Item Shield355 // VXM Ruined Shield
+3427 1 1 VexorSkins/Item Shield356 // VXM Anubis Shield
+3428 1 1 VexorSkins/Item Shield357 // VXM Heat Shield
+3429 1 1 VexorSkins/Item Shield358 // VXM Katashi Shield
+3430 1 1 VexorSkins/Item Shield359 // VXM Kronus 2 0 Shield
+3431 1 1 VexorSkins/Item Shield360 // VXM Mystik Shield
+3432 1 1 VexorSkins/Item Shield361 // VXM Nordic Shield
+3433 1 1 VexorSkins/Item Shield362 // VXM Poseidon 2 0 Shield
+3434 1 1 VexorSkins/Item Shield363 // VXM Style New 2 0 Shield
+3435 1 1 VexorSkins/Item Shield364 // VXM Tail Fox Shield
+3436 1 1 VexorSkins/Item Shield365 // VXM Valentine Shield
+3437 1 1 VexorSkins/Item Shield366 // VXM Halowen Shield
+3438 1 1 VexorSkins/Item Shield367 // VXM Snow Angel Kit Shield
+3934 2 1 VexorSkins/Player HelmMale351 // VXM Golden Darkness Helm
+3935 2 1 VexorSkins/Player HelmMale352 // VXM Golden Darkness Helm
+3936 2 1 VexorSkins/Player HelmMale353 // VXM Dark Raven Helm
+3937 2 1 VexorSkins/Player HelmMale354 // VXM Dark Raven Helm
+3938 2 1 VexorSkins/Player HelmMale355 // VXM 75Kit Santa 2  Helm
+3939 2 1 VexorSkins/Player HelmMale356 // VXM 75Kit Santa 2  Helm
+3940 2 1 VexorSkins/Player HelmMale357 // VXM All Love Rende Helm
+3941 2 1 VexorSkins/Player HelmMale358 // VXM Ruined Helm
+3942 2 1 VexorSkins/Player HelmMale359 // VXM Ruined Helm
+3943 2 1 VexorSkins/Player HelmMale360 // VXM Anubis Helm
+3944 2 1 VexorSkins/Player HelmMale361 // VXM Anubis Helm
+3945 2 1 VexorSkins/Player HelmMale362 // VXM Anubis Helm
+3946 2 1 VexorSkins/Player HelmMale363 // VXM Heat Helm
+3947 2 1 VexorSkins/Player HelmMale364 // VXM Heat Helm
+3948 2 1 VexorSkins/Player HelmMale365 // VXM Katashi Helm
+3949 2 1 VexorSkins/Player HelmMale366 // VXM Katashi Helm
+3950 2 1 VexorSkins/Player HelmMale367 // VXM Kronus 2 0 Helm
+3951 2 1 VexorSkins/Player HelmMale368 // VXM Kronus 2 0 Helm
+3952 2 1 VexorSkins/Player HelmMale369 // VXM Mystik Helm
+3953 2 1 VexorSkins/Player HelmMale370 // VXM Mystik Helm
+3954 2 1 VexorSkins/Player HelmMale371 // VXM Nordic Helm
+3955 2 1 VexorSkins/Player HelmMale372 // VXM Nordic Helm
+3956 2 1 VexorSkins/Player HelmMale373 // VXM Poseidon 2 0 Helm
+3957 2 1 VexorSkins/Player HelmMale374 // VXM Poseidon 2 0 Helm
+3958 2 1 VexorSkins/Player HelmMale375 // VXM Style New 2 0 Helm
+3959 2 1 VexorSkins/Player HelmMale376 // VXM Style New 2 0 Helm
+3960 2 1 VexorSkins/Player HelmMale377 // VXM Tail Fox Helm
+3961 2 1 VexorSkins/Player HelmMale378 // VXM Valentine Helm
+3962 2 1 VexorSkins/Player HelmMale379 // VXM Valentine Helm
+3963 2 1 VexorSkins/Player HelmMale380 // VXM Pack Set Gold  Helm
+3964 2 1 VexorSkins/Player HelmMale381 // VXM Pack Set Gold  Helm
+3965 2 1 VexorSkins/Player HelmMale382 // VXM Pack Set Gold  Helm
+3967 2 1 VexorSkins/Player HelmMale384 // VXM Pack Set Gold  Helm
+3968 2 1 VexorSkins/Player HelmMale385 // VXM Pack Set Gold  Helm
+3969 2 1 VexorSkins/Player HelmMale386 // VXM Pack Set Gold  Helm
+3970 2 1 VexorSkins/Player HelmMale387 // VXM Halowen Helm
+3971 2 1 VexorSkins/Player HelmMale388 // VXM Halowen Helm
+3972 2 1 VexorSkins/Player HelmMale389 // VXM Snow Angel Kit Helm
+3973 2 1 VexorSkins/Player HelmMale390 // VXM Snow Angel Kit Helm
+3974 2 1 VexorSkins/Player HelmMale391 // VXM Snow Angel Kit Helm
+3975 2 1 VexorSkins/Player HelmMale392 // VXM Bagi Helm
+3976 2 1 VexorSkins/Player HelmMale393 // VXM Mystic Knight Helm
+4446 3 1 VexorSkins/Player ArmorMale351 // VXM Golden Darkness Armor
+4447 3 1 VexorSkins/Player ArmorMale352 // VXM Golden Darkness Armor
+4448 3 1 VexorSkins/Player ArmorMale353 // VXM Dark Raven Armor
+4449 3 1 VexorSkins/Player ArmorMale354 // VXM Dark Raven Armor
+4451 3 1 VexorSkins/Player ArmorMale356 // VXM 75Kit Santa 2  Armor
+4452 3 1 VexorSkins/Player ArmorMale357 // VXM All Love Rende Armor
+4453 3 1 VexorSkins/Player ArmorMale358 // VXM Ruined Armor
+4454 3 1 VexorSkins/Player ArmorMale359 // VXM Ruined Armor
+4455 3 1 VexorSkins/Player ArmorMale360 // VXM Anubis Armor
+4456 3 1 VexorSkins/Player ArmorMale361 // VXM Anubis Armor
+4458 3 1 VexorSkins/Player ArmorMale363 // VXM Heat Armor
+4459 3 1 VexorSkins/Player ArmorMale364 // VXM Heat Armor
+4460 3 1 VexorSkins/Player ArmorMale365 // VXM Katashi Armor
+4461 3 1 VexorSkins/Player ArmorMale366 // VXM Katashi Armor
+4462 3 1 VexorSkins/Player ArmorMale367 // VXM Kronus 2 0 Armor
+4463 3 1 VexorSkins/Player ArmorMale368 // VXM Kronus 2 0 Armor
+4464 3 1 VexorSkins/Player ArmorMale369 // VXM Mystik Armor
+4465 3 1 VexorSkins/Player ArmorMale370 // VXM Mystik Armor
+4466 3 1 VexorSkins/Player ArmorMale371 // VXM Nordic Armor
+4467 3 1 VexorSkins/Player ArmorMale372 // VXM Nordic Armor
+4468 3 1 VexorSkins/Player ArmorMale373 // VXM Poseidon 2 0 Armor
+4469 3 1 VexorSkins/Player ArmorMale374 // VXM Poseidon 2 0 Armor
+4470 3 1 VexorSkins/Player ArmorMale375 // VXM Style New 2 0 Armor
+4471 3 1 VexorSkins/Player ArmorMale376 // VXM Style New 2 0 Armor
+4472 3 1 VexorSkins/Player ArmorMale377 // VXM Tail Fox Armor
+4473 3 1 VexorSkins/Player ArmorMale378 // VXM Valentine Armor
+4474 3 1 VexorSkins/Player ArmorMale379 // VXM Valentine Armor
+4475 3 1 VexorSkins/Player ArmorMale380 // VXM Pack Set Gold  Armor
+4476 3 1 VexorSkins/Player ArmorMale381 // VXM Pack Set Gold  Armor
+4477 3 1 VexorSkins/Player ArmorMale382 // VXM Pack Set Gold  Armor
+4478 3 1 VexorSkins/Player ArmorMale383 // VXM Pack Set Gold  Armor
+4479 3 1 VexorSkins/Player ArmorMale384 // VXM Pack Set Gold  Armor
+4480 3 1 VexorSkins/Player ArmorMale385 // VXM Pack Set Gold  Armor
+4481 3 1 VexorSkins/Player ArmorMale386 // VXM Pack Set Gold  Armor
+4482 3 1 VexorSkins/Player ArmorMale387 // VXM Halowen Armor
+4483 3 1 VexorSkins/Player ArmorMale388 // VXM Halowen Armor
+4484 3 1 VexorSkins/Player ArmorMale389 // VXM Snow Angel Kit Armor
+4485 3 1 VexorSkins/Player ArmorMale390 // VXM Snow Angel Kit Armor
+4486 3 1 VexorSkins/Player ArmorMale391 // VXM Snow Angel Kit Armor
+4487 3 1 VexorSkins/Player ArmorMale392 // VXM Bagi Armor
+4488 3 1 VexorSkins/Player ArmorMale393 // VXM Mystic Knight Armor
+4958 4 1 VexorSkins/Player PantMale351 // VXM Golden Darkness Pant
+4959 4 1 VexorSkins/Player PantMale352 // VXM Golden Darkness Pant
+4960 4 1 VexorSkins/Player PantMale353 // VXM Dark Raven Pant
+4961 4 1 VexorSkins/Player PantMale354 // VXM Dark Raven Pant
+4962 4 1 VexorSkins/Player PantMale355 // VXM 75Kit Santa 2  Pant
+4963 4 1 VexorSkins/Player PantMale356 // VXM 75Kit Santa 2  Pant
+4964 4 1 VexorSkins/Player PantMale357 // VXM All Love Rende Pant
+4965 4 1 VexorSkins/Player PantMale358 // VXM Ruined Pant
+4966 4 1 VexorSkins/Player PantMale359 // VXM Ruined Pant
+4967 4 1 VexorSkins/Player PantMale360 // VXM Anubis Pant
+4968 4 1 VexorSkins/Player PantMale361 // VXM Anubis Pant
+4970 4 1 VexorSkins/Player PantMale363 // VXM Heat Pant
+4971 4 1 VexorSkins/Player PantMale364 // VXM Heat Pant
+4972 4 1 VexorSkins/Player PantMale365 // VXM Katashi Pant
+4973 4 1 VexorSkins/Player PantMale366 // VXM Katashi Pant
+4974 4 1 VexorSkins/Player PantMale367 // VXM Kronus 2 0 Pant
+4975 4 1 VexorSkins/Player PantMale368 // VXM Kronus 2 0 Pant
+4976 4 1 VexorSkins/Player PantMale369 // VXM Mystik Pant
+4977 4 1 VexorSkins/Player PantMale370 // VXM Mystik Pant
+4978 4 1 VexorSkins/Player PantMale371 // VXM Nordic Pant
+4979 4 1 VexorSkins/Player PantMale372 // VXM Nordic Pant
+4980 4 1 VexorSkins/Player PantMale373 // VXM Poseidon 2 0 Pant
+4981 4 1 VexorSkins/Player PantMale374 // VXM Poseidon 2 0 Pant
+4982 4 1 VexorSkins/Player PantMale375 // VXM Style New 2 0 Pant
+4983 4 1 VexorSkins/Player PantMale376 // VXM Style New 2 0 Pant
+4984 4 1 VexorSkins/Player PantMale377 // VXM Tail Fox Pant
+4985 4 1 VexorSkins/Player PantMale378 // VXM Valentine Pant
+4986 4 1 VexorSkins/Player PantMale379 // VXM Valentine Pant
+4987 4 1 VexorSkins/Player PantMale380 // VXM Pack Set Gold  Pant
+4988 4 1 VexorSkins/Player PantMale381 // VXM Pack Set Gold  Pant
+4989 4 1 VexorSkins/Player PantMale382 // VXM Pack Set Gold  Pant
+4990 4 1 VexorSkins/Player PantMale383 // VXM Pack Set Gold  Pant
+4991 4 1 VexorSkins/Player PantMale384 // VXM Pack Set Gold  Pant
+4992 4 1 VexorSkins/Player PantMale385 // VXM Pack Set Gold  Pant
+4993 4 1 VexorSkins/Player PantMale386 // VXM Pack Set Gold  Pant
+4994 4 1 VexorSkins/Player PantMale387 // VXM Halowen Pant
+4995 4 1 VexorSkins/Player PantMale388 // VXM Halowen Pant
+4996 4 1 VexorSkins/Player PantMale389 // VXM Snow Angel Kit Pant
+4997 4 1 VexorSkins/Player PantMale390 // VXM Snow Angel Kit Pant
+4999 4 1 VexorSkins/Player PantMale392 // VXM Bagi Pant
+5000 4 1 VexorSkins/Player PantMale393 // VXM Mystic Knight Pant
+5470 5 1 VexorSkins/Player GloveMale351 // VXM Golden Darkness Glove
+5471 5 1 VexorSkins/Player GloveMale352 // VXM Golden Darkness Glove
+5472 5 1 VexorSkins/Player GloveMale353 // VXM Dark Raven Glove
+5473 5 1 VexorSkins/Player GloveMale354 // VXM Dark Raven Glove
+5474 5 1 VexorSkins/Player GloveMale355 // VXM 75Kit Santa 2  Glove
+5475 5 1 VexorSkins/Player GloveMale356 // VXM 75Kit Santa 2  Glove
+5476 5 1 VexorSkins/Player GloveMale357 // VXM All Love Rende Glove
+5477 5 1 VexorSkins/Player GloveMale358 // VXM Ruined Glove
+5478 5 1 VexorSkins/Player GloveMale359 // VXM Ruined Glove
+5479 5 1 VexorSkins/Player GloveMale360 // VXM Anubis Glove
+5480 5 1 VexorSkins/Player GloveMale361 // VXM Anubis Glove
+5482 5 1 VexorSkins/Player GloveMale363 // VXM Heat Glove
+5483 5 1 VexorSkins/Player GloveMale364 // VXM Heat Glove
+5484 5 1 VexorSkins/Player GloveMale365 // VXM Katashi Glove
+5485 5 1 VexorSkins/Player GloveMale366 // VXM Katashi Glove
+5486 5 1 VexorSkins/Player GloveMale367 // VXM Kronus 2 0 Glove
+5487 5 1 VexorSkins/Player GloveMale368 // VXM Kronus 2 0 Glove
+5488 5 1 VexorSkins/Player GloveMale369 // VXM Mystik Glove
+5489 5 1 VexorSkins/Player GloveMale370 // VXM Mystik Glove
+5490 5 1 VexorSkins/Player GloveMale371 // VXM Nordic Glove
+5491 5 1 VexorSkins/Player GloveMale372 // VXM Nordic Glove
+5492 5 1 VexorSkins/Player GloveMale373 // VXM Poseidon 2 0 Glove
+5493 5 1 VexorSkins/Player GloveMale374 // VXM Poseidon 2 0 Glove
+5494 5 1 VexorSkins/Player GloveMale375 // VXM Style New 2 0 Glove
+5495 5 1 VexorSkins/Player GloveMale376 // VXM Style New 2 0 Glove
+5496 5 1 VexorSkins/Player GloveMale377 // VXM Tail Fox Glove
+5497 5 1 VexorSkins/Player GloveMale378 // VXM Valentine Glove
+5498 5 1 VexorSkins/Player GloveMale379 // VXM Valentine Glove
+5499 5 1 VexorSkins/Player GloveMale380 // VXM Pack Set Gold  Glove
+5500 5 1 VexorSkins/Player GloveMale381 // VXM Pack Set Gold  Glove
+5501 5 1 VexorSkins/Player GloveMale382 // VXM Pack Set Gold  Glove
+5502 5 1 VexorSkins/Player GloveMale383 // VXM Pack Set Gold  Glove
+5504 5 1 VexorSkins/Player GloveMale385 // VXM Pack Set Gold  Glove
+5505 5 1 VexorSkins/Player GloveMale386 // VXM Pack Set Gold  Glove
+5506 5 1 VexorSkins/Player GloveMale387 // VXM Halowen Glove
+5507 5 1 VexorSkins/Player GloveMale388 // VXM Halowen Glove
+5508 5 1 VexorSkins/Player GloveMale389 // VXM Snow Angel Kit Glove
+5509 5 1 VexorSkins/Player GloveMale390 // VXM Snow Angel Kit Glove
+5511 5 1 VexorSkins/Player GloveMale392 // VXM Bagi Glove
+5512 5 1 VexorSkins/Player GloveMale393 // VXM Mystic Knight Glove
+5982 6 1 VexorSkins/Player BootMale351 // VXM Golden Darkness Boot
+5983 6 1 VexorSkins/Player BootMale352 // VXM Golden Darkness Boot
+5984 6 1 VexorSkins/Player BootMale353 // VXM Dark Raven Boot
+5985 6 1 VexorSkins/Player BootMale354 // VXM Dark Raven Boot
+5986 6 1 VexorSkins/Player BootMale355 // VXM 75Kit Santa 2  Boot
+5987 6 1 VexorSkins/Player BootMale356 // VXM 75Kit Santa 2  Boot
+5988 6 1 VexorSkins/Player BootMale357 // VXM All Love Rende Boot
+5989 6 1 VexorSkins/Player BootMale358 // VXM Ruined Boot
+5990 6 1 VexorSkins/Player BootMale359 // VXM Ruined Boot
+5991 6 1 VexorSkins/Player BootMale360 // VXM Anubis Boot
+5992 6 1 VexorSkins/Player BootMale361 // VXM Anubis Boot
+5994 6 1 VexorSkins/Player BootMale363 // VXM Heat Boot
+5995 6 1 VexorSkins/Player BootMale364 // VXM Heat Boot
+5996 6 1 VexorSkins/Player BootMale365 // VXM Katashi Boot
+5997 6 1 VexorSkins/Player BootMale366 // VXM Katashi Boot
+5998 6 1 VexorSkins/Player BootMale367 // VXM Kronus 2 0 Boot
+5999 6 1 VexorSkins/Player BootMale368 // VXM Kronus 2 0 Boot
+6000 6 1 VexorSkins/Player BootMale369 // VXM Mystik Boot
+6001 6 1 VexorSkins/Player BootMale370 // VXM Mystik Boot
+6002 6 1 VexorSkins/Player BootMale371 // VXM Nordic Boot
+6003 6 1 VexorSkins/Player BootMale372 // VXM Nordic Boot
+6004 6 1 VexorSkins/Player BootMale373 // VXM Poseidon 2 0 Boot
+6005 6 1 VexorSkins/Player BootMale374 // VXM Poseidon 2 0 Boot
+6006 6 1 VexorSkins/Player BootMale375 // VXM Style New 2 0 Boot
+6007 6 1 VexorSkins/Player BootMale376 // VXM Style New 2 0 Boot
+6008 6 1 VexorSkins/Player BootMale377 // VXM Tail Fox Boot
+6009 6 1 VexorSkins/Player BootMale378 // VXM Valentine Boot
+6010 6 1 VexorSkins/Player BootMale379 // VXM Valentine Boot
+6011 6 1 VexorSkins/Player BootMale380 // VXM Pack Set Gold  Boot
+6012 6 1 VexorSkins/Player BootMale381 // VXM Pack Set Gold  Boot
+6013 6 1 VexorSkins/Player BootMale382 // VXM Pack Set Gold  Boot
+6014 6 1 VexorSkins/Player BootMale383 // VXM Pack Set Gold  Boot
+6015 6 1 VexorSkins/Player BootMale384 // VXM Pack Set Gold  Boot
+6016 6 1 VexorSkins/Player BootMale385 // VXM Pack Set Gold  Boot
+6017 6 1 VexorSkins/Player BootMale386 // VXM Pack Set Gold  Boot
+6018 6 1 VexorSkins/Player BootMale387 // VXM Halowen Boot
+6019 6 1 VexorSkins/Player BootMale388 // VXM Halowen Boot
+6020 6 1 VexorSkins/Player BootMale389 // VXM Snow Angel Kit Boot
+6021 6 1 VexorSkins/Player BootMale390 // VXM Snow Angel Kit Boot
+6023 6 1 VexorSkins/Player BootMale392 // VXM Bagi Boot
+6024 6 1 VexorSkins/Player BootMale393 // VXM Mystic Knight Boot
+6494 7 1 VexorSkins/Item VXM_GOLDEM_DARKNESS_W350 // VXM Golden Darkness Cape
+6495 7 1 VexorSkins/Item VXM_GOLDEM_DARKNESS_W351 // VXM Golden Darkness Wing
+6496 7 1 VexorSkins/Item VXM_DARK_RAVEN_W352 // VXM Dark Raven Cape
+6497 7 1 VexorSkins/Item VXM_DARK_RAVEN_W353 // VXM Dark Raven Wing
+6498 7 1 VexorSkins/Item VXM_75KIT_SANTA_2_0_W354 // VXM 75Kit Santa 2  Cape
+6499 7 1 VexorSkins/Item VXM_75KIT_SANTA_2_0_W355 // VXM 75Kit Santa 2  Wing
+6500 7 1 VexorSkins/Item VXM_ALL_LOVE_RENDER_W356 // VXM All Love Rende Wing
+6501 7 1 VexorSkins/Item VXM_ALL_LOVE_RENDER_W357 // VXM All Love Rende Cape
+6502 7 1 VexorSkins/Item VXM_RUINED_W358 // VXM Ruined Cape
+6503 7 1 VexorSkins/Item VXM_RUINED_W359 // VXM Ruined Wing
+6504 7 1 VexorSkins/Item VXM_ANUBIS_W360 // VXM Anubis Cape
+6505 7 1 VexorSkins/Item VXM_ANUBIS_W361 // VXM Anubis Wing
+6506 7 1 VexorSkins/Item VXM_HEAT_W362 // VXM Heat Cape
+6507 7 1 VexorSkins/Item VXM_HEAT_W363 // VXM Heat Wing
+6508 7 1 VexorSkins/Item VXM_KATASHI_W364 // VXM Katashi Wing
+6509 7 0 VexorSkins/Item VXM_KATASHI_W365 // VXM Katashi Cape
+6510 7 1 VexorSkins/Item VXM_KRONUS_2_0_W366 // VXM Kronus 2 0 Cape
+6511 7 1 VexorSkins/Item VXM_KRONUS_2_0_W367 // VXM Kronus 2 0 Wing
+6512 7 1 VexorSkins/Item VXM_MYSTIK_W368 // VXM Mystik Cape
+6513 7 1 VexorSkins/Item VXM_MYSTIK_W369 // VXM Mystik Wing
+6514 7 1 VexorSkins/Item VXM_MYSTIK_W370 // VXM Mystik Wing 2
+6515 7 1 VexorSkins/Item VXM_NORDIC_W371 // VXM Nordic Cape
+6516 7 1 VexorSkins/Item VXM_NORDIC_W372 // VXM Nordic Wing
+6517 7 1 VexorSkins/Item VXM_POSEIDON_2_0_W373 // VXM Poseidon 2 0 Cape
+6518 7 1 VexorSkins/Item VXM_POSEIDON_2_0_W374 // VXM Poseidon 2 0 Wing
+6519 7 1 VexorSkins/Item VXM_STYLE_NEW_2_0_W375 // VXM Style New 2 0 Cape
+6520 7 1 VexorSkins/Item VXM_STYLE_NEW_2_0_W376 // VXM Style New 2 0 Wing
+6521 7 1 VexorSkins/Item VXM_TAIL_FOX_W377 // VXM Tail Fox Cape
+6522 7 1 VexorSkins/Item VXM_TAIL_FOX_W378 // VXM Tail Fox Cape 2
+6523 7 1 VexorSkins/Item VXM_TAIL_FOX_W379 // VXM Tail Fox Wing
+6524 7 1 VexorSkins/Item VXM_VALENTINE_W380 // VXM Valentine Cape
+6525 7 1 VexorSkins/Item VXM_VALENTINE_W381 // VXM Valentine Wing
+6526 7 1 VexorSkins/Item VXM_HALOWEN_W382 // VXM Halowen Cape
+6527 7 1 VexorSkins/Item VXM_HALOWEN_W383 // VXM Halowen Wing
+6528 7 1 VexorSkins/Item VXM_HALOWEN_W384 // VXM Halowen Wing 2
+6529 7 1 VexorSkins/Item VXM_SNOW_ANGEL_KIT_W385 // VXM Snow Angel Kit Cape
+6530 7 1 VexorSkins/Item VXM_SNOW_ANGEL_KIT_W386 // VXM Snow Angel Kit Wing
+7008 9 0 VexorSkins/Item VXM_GOLDEM_DARKNESS_P352 // VXM Golden Darkness Pendant
+7009 9 0 VexorSkins/Item VXM_GOLDEM_DARKNESS_R353 // VXM Golden Darkness Ring
+7010 8 1 VexorSkins/Item Helper355 // VXM Golden Darkness Pet
+7011 8 1 VexorSkins/Item Helper356 // VXM Dark Raven Pet
+7012 9 0 VexorSkins/Item VXM_DARK_RAVEN_E356 // VXM Dark Raven Earring
+7013 9 0 VexorSkins/Item VXM_DARK_RAVEN_E357 // VXM Dark Raven Earring 2
+7014 9 0 VexorSkins/Item VXM_DARK_RAVEN_P358 // VXM Dark Raven Pendant
+7015 9 0 VexorSkins/Item VXM_DARK_RAVEN_R359 // VXM Dark Raven Ring
+7016 8 0 VexorSkins/Item Helper361 // VXM 75Kit Santa 2  Pet
+7017 9 0 VexorSkins/Item VXM_75KIT_SANTA_2_0_P361 // VXM 75Kit Santa 2  Pendant
+7018 9 0 VexorSkins/Item VXM_75KIT_SANTA_2_0_R362 // VXM 75Kit Santa 2  Ring
+7019 8 1 VexorSkins/Item Helper364 // VXM 75Kit Santa 2  Pet 2
+7020 8 1 VexorSkins/Item Helper365 // VXM 75Kit Santa 2  Pet 3
+7021 8 1 VexorSkins/Item Helper366 // VXM All Love Rende Pet
+7022 9 0 VexorSkins/Item VXM_ALL_LOVE_RENDER_E366 // VXM All Love Rende Earring
+7023 9 0 VexorSkins/Item VXM_ALL_LOVE_RENDER_E367 // VXM All Love Rende Earring 2
+7024 9 0 VexorSkins/Item VXM_ALL_LOVE_RENDER_P368 // VXM All Love Rende Pendant
+7025 8 1 VexorSkins/Item Helper370 // VXM All Love Rende Pet 2
+7026 9 0 VexorSkins/Item VXM_ALL_LOVE_RENDER_R370 // VXM All Love Rende Ring
+7027 9 0 VexorSkins/Item VXM_RUINED_P371 // VXM Ruined Pendant
+7028 8 1 VexorSkins/Item Helper373 // VXM Ruined Pet
+7029 9 0 VexorSkins/Item VXM_RUINED_R373 // VXM Ruined Ring
+7030 8 1 VexorSkins/Item Helper375 // VXM Anubis Pet
+7031 9 0 VexorSkins/Item VXM_ANUBIS_P375 // VXM Anubis Pendant
+7032 9 0 VexorSkins/Item VXM_ANUBIS_R376 // VXM Anubis Ring
+7033 8 1 VexorSkins/Item Helper378 // VXM Anubis Pet 2
+7034 8 1 VexorSkins/Item Helper379 // VXM Anubis Pet 3
+7035 9 0 VexorSkins/Item VXM_KATASHI_R379 // VXM Katashi Ring
+7036 9 0 VexorSkins/Item VXM_KATASHI_P380 // VXM Katashi Pendant
+7037 8 1 VexorSkins/Item Helper382 // VXM Katashi Pet
+7038 8 1 VexorSkins/Item Helper383 // VXM Kronus 2 0 Pet
+7039 9 0 VexorSkins/Item VXM_KRONUS_2_0_P383 // VXM Kronus 2 0 Pendant
+7040 8 1 VexorSkins/Item Helper385 // VXM Kronus 2 0 Pet 2
+7041 9 0 VexorSkins/Item VXM_KRONUS_2_0_R385 // VXM Kronus 2 0 Ring
+7042 8 1 VexorSkins/Item Helper387 // VXM Mystik Pet
+7043 9 0 VexorSkins/Item VXM_MYSTIK_P387 // VXM Mystik Pendant
+7044 9 0 VexorSkins/Item VXM_MYSTIK_R388 // VXM Mystik Ring
+7045 9 0 VexorSkins/Item VXM_NORDIC_P389 // VXM Nordic Pendant
+7046 8 1 VexorSkins/Item Helper391 // VXM Nordic Pet
+7047 9 0 VexorSkins/Item VXM_NORDIC_R391 // VXM Nordic Ring
+7048 9 0 VexorSkins/Item VXM_POSEIDON_2_0_R392 // VXM Poseidon 2 0 Ring
+7049 9 0 VexorSkins/Item VXM_POSEIDON_2_0_P393 // VXM Poseidon 2 0 Pendant
+7050 8 1 VexorSkins/Item Helper395 // VXM Poseidon 2 0 Pet
+7051 9 0 VexorSkins/Item VXM_STYLE_NEW_2_0_E395 // VXM Style New 2 0 Earring
+7052 9 0 VexorSkins/Item VXM_STYLE_NEW_2_0_P396 // VXM Style New 2 0 Pendant
+7053 9 0 VexorSkins/Item VXM_STYLE_NEW_2_0_R397 // VXM Style New 2 0 Ring
+7054 9 0 VexorSkins/Item VXM_TAIL_FOX_P398 // VXM Tail Fox Pendant
+7055 9 0 VexorSkins/Item VXM_TAIL_FOX_R399 // VXM Tail Fox Ring
+7056 8 1 VexorSkins/Item Helper401 // VXM Tail Fox Pet
+7057 8 1 VexorSkins/Item Helper402 // VXM Valentine Pet
+7058 8 1 VexorSkins/Item Helper403 // VXM Valentine Pet 2
+7059 9 0 VexorSkins/Item VXM_VALENTINE_P403 // VXM Valentine Pendant
+7060 9 0 VexorSkins/Item VXM_VALENTINE_R404 // VXM Valentine Ring
+7061 8 1 VexorSkins/Item Helper406 // VXM Halowen Pet
+7062 8 1 VexorSkins/Item Helper407 // VXM Halowen Pet 2
+7063 8 1 VexorSkins/Item Helper408 // VXM Halowen Pet 3
+7064 8 1 VexorSkins/Item Helper409 // VXM Halowen Pet 4
+7065 8 1 VexorSkins/Item Helper410 // VXM Halowen Pet 5
+7066 9 0 VexorSkins/Item VXM_SNOW_ANGEL_KIT_E410 // VXM Snow Angel Kit Earring
+7067 9 0 VexorSkins/Item VXM_SNOW_ANGEL_KIT_E411 // VXM Snow Angel Kit Earring 2
+7068 9 0 VexorSkins/Item VXM_SNOW_ANGEL_KIT_P412 // VXM Snow Angel Kit Pendant
+7069 9 0 VexorSkins/Item VXM_SNOW_ANGEL_KIT_R413 // VXM Snow Angel Kit Ring
+7070 8 1 VexorSkins/Item Helper415 // VXM Snow Angel Kit Pet
+7071 8 1 VexorSkins/Item Helper416 // VXM Snow Angel Kit Pet 2
+7518 -1 1 VexorSkins/Item Box351 // VXM Dark Raven Box
+7519 -1 1 VexorSkins/Item Box352 // VXM Ruined Box
+7520 -1 1 VexorSkins/Item Box353 // VXM Anubis Box
+7521 -1 1 VexorSkins/Item Box354 // VXM Kronus 2 0 Box
+7522 -1 1 VexorSkins/Item Box355 // VXM Poseidon 2 0 Box
+7523 -1 1 VexorSkins/Item Box356 // VXM Valentine Box
+7524 -1 1 VexorSkins/Item Box357 // VXM Halowen Box
+7525 -1 1 VexorSkins/Item Box358 // VXM Snow Angel Kit Box
+7526 -1 1 VexorSkins/Item Box359 // VXM Snow Angel Kit Box 2
+7527 -1 1 VexorSkins/Item Box351 // VXM Golden Darkness Box
+7528 -1 1 VexorSkins/Item Box351 // VXM 75Kit Santa 2 Box
+7529 -1 1 VexorSkins/Item Box351 // VXM All Love Rende Box
+7530 -1 1 VexorSkins/Item Box351 // VXM Heat Box
+7531 -1 1 VexorSkins/Item Box351 // VXM Katashi Box
+7532 -1 1 VexorSkins/Item Box351 // VXM Mystik Box
+7533 -1 1 VexorSkins/Item Box351 // VXM Nordic Box
+7534 -1 1 VexorSkins/Item Box351 // VXM Style New 2.0 Box
+7535 -1 1 VexorSkins/Item Box351 // VXM Tail Fox Box
+7536 -1 1 VexorSkins/Item Box351 // VXM Pack Bk Box
+7537 -1 1 VexorSkins/Item Box351 // VXM Pack Dl Box
+7538 -1 1 VexorSkins/Item Box351 // VXM Pack Elf Box
+7539 -1 1 VexorSkins/Item Box351 // VXM Pack Mg Box
+7540 -1 1 VexorSkins/Item Box351 // VXM Pack Rf Box
+7541 -1 1 VexorSkins/Item Box351 // VXM Pack Sm Box
+7542 -1 1 VexorSkins/Item Box351 // VXM Pack Summoner Box
+7543 -1 1 VexorSkins/Item Box351 // VXM Bagi Box
+7544 -1 1 VexorSkins/Item Box351 // VXM Mystic Knight Box

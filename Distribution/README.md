@@ -1,13 +1,13 @@
 # VEXORMU PC
 
-[Download the PC installer](https://github.com/crypto-20/vexormu-updater/releases/download/pc-v1.0.1-20261104/VEXORMU-Installer.exe).
+[Download the PC installer](https://github.com/crypto-20/vexormu-updater/releases/download/pc-v1.0.5-20261107/VEXORMU-Installer.exe).
 
-Download **VEXORMU-Installer.exe** only. Choose an install folder and click **Install**. The installer downloads and verifies the complete PC client from GitHub Releases. Interrupted downloads resume when you retry.
+Download **VEXORMU-Installer.exe** only. Choose an install folder and click **Install**. It downloads and verifies the complete PC client from GitHub. Interrupted downloads resume when you retry.
 
-After installation, click **Open launcher**. The launcher checks for PC updates before Play. Use **Verify files** for a complete file scan and repair. An OpenGL fallback is included for computers without Vulkan support.
+For existing players, close the game, open your existing **Launcher.exe**, and click **Start**. The launcher updates itself automatically when required and may restart once before opening the game.
 
-Full installations use ZIP packages. With a newly prepared release, the launcher downloads only missing or changed files from an existing client. It requests each file's compressed bytes from the ZIP, verifies the decoded file with SHA-256, then installs it. Interrupted file downloads resume on retry. Existing graphics and audio preferences are preserved.
+Every normal **Start/Play** verifies all managed client files against the current release, including Amy NPC assets and the PvP map. Old, missing, or corrupt files repair automatically before the game opens, even if the installed release tag is already current. Wait for file checking and any downloads to finish. A manual **Verify files** step is no longer required for file mismatches.
 
-Older release manifests remain compatible and use ZIP downloads until a release with the file download index is activated. Older launchers can install the new launcher through the existing ZIP update process. File updates require HTTP byte-range support; the launcher reports an error if the server ignores a range instead of silently downloading a whole ZIP.
+Existing clients download only missing or changed files when supported by their launcher. Your graphics and audio preferences are preserved. The **Verify files** button remains available. An OpenGL fallback is included.
 
-Requires Windows with .NET Framework 4.5 or newer. Close the game before an update.
+Requires Windows with .NET Framework 4.5 or newer and an internet connection. Always use the launcher in the client folder you intend to play.

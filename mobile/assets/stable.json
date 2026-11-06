@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "generation": 202611060001,
+  "baseResourceVersion": 202611050844,
+  "minClientBuild": 848,
+  "manifestUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/assets-202611060001/manifest.tsv",
+  "webManifestPath": "/asset-patches/assets-202611060001/manifest.tsv",
+  "sha256": "45b48ca3b170d936d15473e93f38de18bf037cac16266ed3176830b6613ad329",
+  "signature": "J6re+CJPcFDnsDpNeBPCx8t/7xwHAITCkmrYDXAbchlqLw2wVbBbHGBNuYNOMIJsB1AMjWCB+bTdw0v62kQE9+LR/F19tDv0LgSGnpC1d+ZQWj9Vx/y47gsKPLJhAdxU5xUwnm/EoNrWP5pteWWRa2J7yTEj+GYTbPWMd5NlELtkgyi5caUMIQxEW0hzI3lBOlOov22l2KAl/3kv4BpmowARo1WYaMCP94dWkf8NubOyeiYsO46R0d+NLppML8uhLEn15R8uNqEkdcYlHpDBtJqCxVUb/6gsRsoVOBDofQHFsyPq5l98k2qYMoyLi0QSVpOJrjcx3m2NDqNvN2sbiw=="
+}

@@ -1,10 +1,10 @@
 {
-  "versionCode": 849,
+  "versionCode": 855,
   "versionName": "V824.7",
   "serverVersion": "1.03.52",
-  "updateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.7-build849/VEXORMU_V824.7_Build849.apk",
-  "fallbackUpdateUrl": "https://github.com/crypto-20/vexormu-updater/releases/download/v824.7-build849/VEXORMU_V824.7_Build849.apk",
-  "sha256": "97ed62eb55cae80fc3062becdb4b4d8de3dbdc2495be548cad17b87137644ed3",
-  "size": 40535529,
-  "changeLog": "Build849: MG Fire Slash, Fenrir/visual-pet sync, master Add/Cancel and tooltip fixes. Existing complete assets retained; small data patches continue."
+  "updateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/a7e145449ef55618f76bae48420685e42f8cbc8f/mobile/installers/build855/VEXORMU_V824.7_Build855.apk?download=1",
+  "fallbackUpdateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/a7e145449ef55618f76bae48420685e42f8cbc8f/mobile/installers/build855/VEXORMU_V824.7_Build855.apk?download=1",
+  "sha256": "4a8aec0145fed06e467caaa1c892a2a1b964aafd4508c55d4fd32f771a73d356",
+  "size": 40999839,
+  "changeLog": "Build855 fixes GitHub download/verification failures, restores valid ZIP extraction, and retains completed assets. Includes a small signed data repair. One launcher update is required for the backup downloader; later data patches remain automatic."
 }

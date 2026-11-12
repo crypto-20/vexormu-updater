@@ -1,10 +1,10 @@
 {
-  "versionCode": 855,
+  "versionCode": 856,
   "versionName": "V824.7",
   "serverVersion": "1.03.52",
-  "updateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/a7e145449ef55618f76bae48420685e42f8cbc8f/mobile/installers/build855/VEXORMU_V824.7_Build855.apk?download=1",
-  "fallbackUpdateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/a7e145449ef55618f76bae48420685e42f8cbc8f/mobile/installers/build855/VEXORMU_V824.7_Build855.apk?download=1",
-  "sha256": "4a8aec0145fed06e467caaa1c892a2a1b964aafd4508c55d4fd32f771a73d356",
-  "size": 40999839,
-  "changeLog": "Build855 fixes GitHub download/verification failures, restores valid ZIP extraction, and retains completed assets. Includes a small signed data repair. One launcher update is required for the backup downloader; later data patches remain automatic."
+  "updateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/d217881358b5f63598736f80cd484be4914af910/mobile/installers/build856/VEXORMU_V824.7_Build856.apk?download=1",
+  "fallbackUpdateUrl": "https://raw.githubusercontent.com/crypto-20/vexormu-updater/d217881358b5f63598736f80cd484be4914af910/mobile/installers/build856/VEXORMU_V824.7_Build856.apk?download=1",
+  "sha256": "f7994264e3d7f9d03ffd04de66ba5d775fa95dd4f1706d07897ed69f4b4897ff",
+  "size": 41011473,
+  "changeLog": "Build856 improves startup compatibility with GLES graphics for Samsung Exynos Android16, safer skill-model loading and local crash details. Existing complete game assets are retained. One installer update is required for native fixes; later data-only patches remain automatic."
 }
